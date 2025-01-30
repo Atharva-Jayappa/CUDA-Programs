@@ -4,3 +4,8 @@
 *.ptx
 *.cubin
 *.fatbin
+/.idea/CUDA-Programs.iml
+/.idea/modules.xml
+/.idea/.gitignore
+/.idea/editor.xml
+/.idea/vcs.xml
